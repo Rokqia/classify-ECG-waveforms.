@@ -43,10 +43,3 @@ This project involves the classification of ECG (Electrocardiogram) signals usin
 - matplotlib
 - scipy
 
-## Acknowledgments
-- This project was developed as part of [Your Project Name] and inspired by [References, if any].
-
-## Author
-- [Your Name]
-
-Feel free to customize the README based on your specific project details, dependencies, and acknowledgments. Make sure to update the paths and file names accordingly.
